@@ -1,0 +1,15 @@
+{
+  "cases": {
+    "test-case-001": {
+      "callerName": "Test User",
+      "phone": "9999999999",
+      "transcript": "I need help at home!",
+      "service": "medical",
+      "locationText": "123 Main St",
+      "coordinates": { "lat": 12.9716, "lng": 77.5946 },
+      "urgencyScore": 0.8,
+      "status": "pending",
+      "timestamp": 1690000000000
+    }
+  }
+}
